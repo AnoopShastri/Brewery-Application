@@ -7,3 +7,4 @@ flask_bcrypt==1.0.1
 datetime
 wtforms
 wtforms.validators
+werkzeug==2.2.3
