@@ -3,3 +3,7 @@ Flask-Login==0.6.2
 requests==2.31.0
 Flask-WTF==1.0.1
 Flask-SQLAlchemy==3.0.4
+flask_bcrypt==1.0.1
+datetime
+wtforms
+wtforms.validators
